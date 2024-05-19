@@ -4,6 +4,8 @@
 
 You must created project using dfx new sample before merge this codes. this is for education purpose.
 
+Overall, this application allows users to authenticate using the Internet Identity service, add new students, and fetch the list of existing students from the Internet Computer backend.
+
 let's break down the code and explain what's going on:
 
 # React Component (App.jsx):
